@@ -1,2 +1,2 @@
 # Ex4a
-This is an exercise4a SP342
+I am editing the README file.Adding some more details about the project description.
